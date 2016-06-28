@@ -1,0 +1,11 @@
+{
+  "name": "playground",
+  "version": "0.0.0",
+  "description": "Playground",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test"
+  },
+  "author": "Simon Madsen",
+  "license": "ISC"
+}
