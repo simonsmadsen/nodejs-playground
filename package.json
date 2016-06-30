@@ -7,5 +7,8 @@
     "test": "./node_modules/.bin/mocha test"
   },
   "author": "Simon Madsen",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.72.0"
+  }
 }
